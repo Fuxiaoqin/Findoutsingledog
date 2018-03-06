@@ -1,6 +1,6 @@
 # 
 Phaser.js实现寻找单身狗游戏(本人手写源码)
-# [Demo演示 :blush:](https://fuxiaoqin.github.io/Findoutsingledog/dingleDog.html)<br>
+# [Demo演示 :blush:](https://fuxiaoqin.github.io/Findoutsingledog/singleDog.html)<br>
 ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
  
 [![image](https://github.com/Fuxiaoqin/Findoutsingledog/blob/master/images/singleDogIndex.png?raw=true "点我演示效果")](https://fuxiaoqin.github.io/Findoutsingledog/singleDog.html)
